@@ -1,5 +1,9 @@
 ## Change Log
 
+### 0.20.5.1: February 22, 2022
+- Bug: Fixed start issue (#252)
+- Bug: Fixed Dutch translation
+
 ### 0.20.5: February 13, 2022
 - Enhancement: Changes csv column names. Please refer to github WIKI documentation for details (#49, #209)
 - Enhancement: Added program and program templates to csv export (#228)
